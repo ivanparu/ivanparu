@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! I'm Iván Parunov</h1>
 
 <p>Welcome to my page! </br> I'm Iván, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021893.png" width="13"/> <b>Buenos Aires, Argentina</b>.</p>
+<p>I’m currently working on :memo: <b>Calim Estudio Contable Digital</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -57,7 +58,7 @@
   </tbody>
 </table>
 
-<h3>Where to find me</h3>
+<h3>:mailbox: How to reach me ivanparu04@gmail.com</h3>
 <p><a href="https://github.com/ivanparu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="[14:49]
 https://www.linkedin.com/in/iv%C3%A1n-parunov-01b020251/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
