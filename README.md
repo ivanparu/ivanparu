@@ -60,5 +60,5 @@
 
 <h3>:mailbox: How to reach me ivanparu04@gmail.com</h3>
 <p><a href="https://github.com/ivanparu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="[14:49]
-https://www.linkedin.com/in/iv%C3%A1n-parunov-01b020251/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+https://www.linkedin.com/in/ivanparunov/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
